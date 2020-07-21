@@ -1,0 +1,8 @@
+99.942215	101.402434	Hello
+101.934805	103.471077	World!
+103.523415	104.654071	This application
+105.632620	108.319828	will help you convert
+108.781216	110.013276	a file with labels
+110.682543	113.379891	produced by Audacity
+113.932543	115.058128	to an SRT file
+115.549938	116.503136	used in subtitling.
