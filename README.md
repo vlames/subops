@@ -14,3 +14,7 @@ SubOps is a simple program designed to do a few useful operations for a subtitli
 * Type ```make``` to create a ```SubOps``` executable
 * Type ```./SubOps``` to start the application
 * Try various operations using test files from the ```resources``` directory
+
+## Important
+
+Test files should be located in the same directory as the executable
